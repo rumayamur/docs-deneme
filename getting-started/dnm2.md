@@ -1,10 +1,22 @@
 ---
-nav_title: Uploading CSV Files
-article_title: Data Ingestion - Uploading CSV Files - User Guide
-page_order: 11
-layout: doc_guide
-page_collection: 'user_guide'
-article_title: Dataroid User Guide
+icon: bolt
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+metaLinks:
+  alternates:
+    - https://app.gitbook.com/s/yE16Xb3IemPxJWydtPOj/getting-started/uping
 ---
 
 # User Property Ingestion - CSV Upload
